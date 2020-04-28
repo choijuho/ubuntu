@@ -1,2 +1,2 @@
 # usage
- * docker run -it --tm ubuntu
+ * docker commit -m "test" u1 cjhdockerman/ubuntu
