@@ -3,6 +3,6 @@
 FROM ubuntu
 
 RUN apt update
-RUN apt install net-tools
-RUN apt install curl
-RUN apt install tree
+RUN apt install -y net-tools
+RUN apt install -y curl
+RUN apt install -y tree
